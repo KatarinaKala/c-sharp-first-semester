@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/HW_03/HW_03/bin/Debug/netcoreapp2.1/Circle.deps.json
+/Users/kata/C#Projects/HW_03/HW_03/bin/Debug/netcoreapp2.1/Circle.runtimeconfig.json
+/Users/kata/C#Projects/HW_03/HW_03/bin/Debug/netcoreapp2.1/Circle.runtimeconfig.dev.json
+/Users/kata/C#Projects/HW_03/HW_03/bin/Debug/netcoreapp2.1/Circle.dll
+/Users/kata/C#Projects/HW_03/HW_03/bin/Debug/netcoreapp2.1/Circle.pdb
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.csprojAssemblyReference.cache
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.AssemblyInfo.cs
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.dll
+/Users/kata/C#Projects/HW_03/HW_03/obj/Debug/netcoreapp2.1/Circle.pdb

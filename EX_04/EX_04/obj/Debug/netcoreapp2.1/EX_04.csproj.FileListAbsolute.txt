@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/EX_04/EX_04/bin/Debug/netcoreapp2.1/EX_04.deps.json
+/Users/kata/C#Projects/EX_04/EX_04/bin/Debug/netcoreapp2.1/EX_04.runtimeconfig.json
+/Users/kata/C#Projects/EX_04/EX_04/bin/Debug/netcoreapp2.1/EX_04.runtimeconfig.dev.json
+/Users/kata/C#Projects/EX_04/EX_04/bin/Debug/netcoreapp2.1/EX_04.dll
+/Users/kata/C#Projects/EX_04/EX_04/bin/Debug/netcoreapp2.1/EX_04.pdb
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.csprojAssemblyReference.cache
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.AssemblyInfo.cs
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.dll
+/Users/kata/C#Projects/EX_04/EX_04/obj/Debug/netcoreapp2.1/EX_04.pdb

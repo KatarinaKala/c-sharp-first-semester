@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/bin/Debug/netcoreapp2.1/Exercise2_same_time.deps.json
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/bin/Debug/netcoreapp2.1/Exercise2_same_time.runtimeconfig.json
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/bin/Debug/netcoreapp2.1/Exercise2_same_time.runtimeconfig.dev.json
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/bin/Debug/netcoreapp2.1/Exercise2_same_time.dll
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/bin/Debug/netcoreapp2.1/Exercise2_same_time.pdb
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.csprojAssemblyReference.cache
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.AssemblyInfo.cs
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.dll
+/Users/kata/C#Projects/EX_04/Exercise2_same_time/obj/Debug/netcoreapp2.1/Exercise2_same_time.pdb

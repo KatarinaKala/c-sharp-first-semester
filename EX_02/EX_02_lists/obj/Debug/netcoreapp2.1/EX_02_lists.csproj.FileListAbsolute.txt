@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.csprojAssemblyReference.cache
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.AssemblyInfo.cs
+/Users/kata/C#Projects/EX_02/EX_02_lists/bin/Debug/netcoreapp2.1/EX_02_lists.deps.json
+/Users/kata/C#Projects/EX_02/EX_02_lists/bin/Debug/netcoreapp2.1/EX_02_lists.runtimeconfig.json
+/Users/kata/C#Projects/EX_02/EX_02_lists/bin/Debug/netcoreapp2.1/EX_02_lists.runtimeconfig.dev.json
+/Users/kata/C#Projects/EX_02/EX_02_lists/bin/Debug/netcoreapp2.1/EX_02_lists.dll
+/Users/kata/C#Projects/EX_02/EX_02_lists/bin/Debug/netcoreapp2.1/EX_02_lists.pdb
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.dll
+/Users/kata/C#Projects/EX_02/EX_02_lists/obj/Debug/netcoreapp2.1/EX_02_lists.pdb

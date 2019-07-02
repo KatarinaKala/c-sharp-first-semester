@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/EX_03/VendingMachine/bin/Debug/netcoreapp2.1/VendingMachine.deps.json
+/Users/kata/C#Projects/EX_03/VendingMachine/bin/Debug/netcoreapp2.1/VendingMachine.runtimeconfig.json
+/Users/kata/C#Projects/EX_03/VendingMachine/bin/Debug/netcoreapp2.1/VendingMachine.runtimeconfig.dev.json
+/Users/kata/C#Projects/EX_03/VendingMachine/bin/Debug/netcoreapp2.1/VendingMachine.dll
+/Users/kata/C#Projects/EX_03/VendingMachine/bin/Debug/netcoreapp2.1/VendingMachine.pdb
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.csprojAssemblyReference.cache
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.AssemblyInfo.cs
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.dll
+/Users/kata/C#Projects/EX_03/VendingMachine/obj/Debug/netcoreapp2.1/VendingMachine.pdb

@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/EX_02/EX_02_arrays/bin/Debug/netcoreapp2.1/EX_02_arrays.deps.json
+/Users/kata/C#Projects/EX_02/EX_02_arrays/bin/Debug/netcoreapp2.1/EX_02_arrays.runtimeconfig.json
+/Users/kata/C#Projects/EX_02/EX_02_arrays/bin/Debug/netcoreapp2.1/EX_02_arrays.runtimeconfig.dev.json
+/Users/kata/C#Projects/EX_02/EX_02_arrays/bin/Debug/netcoreapp2.1/EX_02_arrays.dll
+/Users/kata/C#Projects/EX_02/EX_02_arrays/bin/Debug/netcoreapp2.1/EX_02_arrays.pdb
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.csprojAssemblyReference.cache
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.AssemblyInfo.cs
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.dll
+/Users/kata/C#Projects/EX_02/EX_02_arrays/obj/Debug/netcoreapp2.1/EX_02_arrays.pdb

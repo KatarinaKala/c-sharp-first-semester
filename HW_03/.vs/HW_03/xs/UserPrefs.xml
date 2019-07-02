@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D5E9A70E-6A21-4C96-8E52-3BCEEE22C3FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Circle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../EX_03/EX_03/Program.cs">
+    <Files>
+      <File FileName="Bank_card/Program.cs" Line="28" Column="37" />
+      <File FileName="HW_03/Program.cs" Line="14" Column="36" />
+      <File FileName="../EX_03/EX_03/Program.cs" Line="58" Column="40" />
+      <File FileName="../EX_03/VendingMachine/Program.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_03" expanded="True">
+            <Node name="Bank_card" expanded="True" />
+            <Node name="Circle" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bank__card PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

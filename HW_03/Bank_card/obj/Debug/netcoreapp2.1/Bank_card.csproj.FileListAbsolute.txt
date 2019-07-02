@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/HW_03/Bank_card/bin/Debug/netcoreapp2.1/Bank_card.deps.json
+/Users/kata/C#Projects/HW_03/Bank_card/bin/Debug/netcoreapp2.1/Bank_card.runtimeconfig.json
+/Users/kata/C#Projects/HW_03/Bank_card/bin/Debug/netcoreapp2.1/Bank_card.runtimeconfig.dev.json
+/Users/kata/C#Projects/HW_03/Bank_card/bin/Debug/netcoreapp2.1/Bank_card.dll
+/Users/kata/C#Projects/HW_03/Bank_card/bin/Debug/netcoreapp2.1/Bank_card.pdb
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.csprojAssemblyReference.cache
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.AssemblyInfo.cs
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.dll
+/Users/kata/C#Projects/HW_03/Bank_card/obj/Debug/netcoreapp2.1/Bank_card.pdb

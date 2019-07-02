@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7E66AC88-5687-4AD2-A4F9-9759DD689B7E}|Default">
+  <MonoDevelop.Ide.ItemProperties.EX__02__lists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EX_02_arrays/Program.cs">
+    <Files>
+      <File FileName="EX_02_arrays/Program.cs" Line="36" Column="49" />
+      <File FileName="../../Downloads/Ex_02/Arrays/Program.cs" Line="14" Column="1" />
+      <File FileName="EX_02_loops/Program.cs" Line="71" Column="27" />
+      <File FileName="EX_02/Program.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EX_02" expanded="True">
+            <Node name="EX_02_arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="EX_02_functions" expanded="True" />
+            <Node name="EX_02_lists" expanded="True" />
+            <Node name="EX_02_loops" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EX__02__loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EX__02__arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EX__02__functions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

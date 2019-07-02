@@ -1,0 +1,5 @@
+cherries
+orange
+banana
+peach
+pear

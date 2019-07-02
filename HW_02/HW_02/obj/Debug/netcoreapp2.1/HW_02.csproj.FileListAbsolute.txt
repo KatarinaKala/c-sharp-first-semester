@@ -1,0 +1,11 @@
+/Users/kata/C#Projects/HW_02/HW_02/bin/Debug/netcoreapp2.1/HW_02.deps.json
+/Users/kata/C#Projects/HW_02/HW_02/bin/Debug/netcoreapp2.1/HW_02.runtimeconfig.json
+/Users/kata/C#Projects/HW_02/HW_02/bin/Debug/netcoreapp2.1/HW_02.runtimeconfig.dev.json
+/Users/kata/C#Projects/HW_02/HW_02/bin/Debug/netcoreapp2.1/HW_02.dll
+/Users/kata/C#Projects/HW_02/HW_02/bin/Debug/netcoreapp2.1/HW_02.pdb
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.csprojAssemblyReference.cache
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.AssemblyInfo.cs
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.dll
+/Users/kata/C#Projects/HW_02/HW_02/obj/Debug/netcoreapp2.1/HW_02.pdb

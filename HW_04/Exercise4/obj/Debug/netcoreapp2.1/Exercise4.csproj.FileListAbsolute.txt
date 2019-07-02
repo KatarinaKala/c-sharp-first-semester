@@ -1,0 +1,10 @@
+/Users/kata/C#Projects/HW_04/Exercise4/bin/Debug/netcoreapp2.1/Exercise4.deps.json
+/Users/kata/C#Projects/HW_04/Exercise4/bin/Debug/netcoreapp2.1/Exercise4.runtimeconfig.json
+/Users/kata/C#Projects/HW_04/Exercise4/bin/Debug/netcoreapp2.1/Exercise4.runtimeconfig.dev.json
+/Users/kata/C#Projects/HW_04/Exercise4/bin/Debug/netcoreapp2.1/Exercise4.dll
+/Users/kata/C#Projects/HW_04/Exercise4/bin/Debug/netcoreapp2.1/Exercise4.pdb
+/Users/kata/C#Projects/HW_04/Exercise4/obj/Debug/netcoreapp2.1/Exercise4.csproj.CoreCompileInputs.cache
+/Users/kata/C#Projects/HW_04/Exercise4/obj/Debug/netcoreapp2.1/Exercise4.AssemblyInfoInputs.cache
+/Users/kata/C#Projects/HW_04/Exercise4/obj/Debug/netcoreapp2.1/Exercise4.AssemblyInfo.cs
+/Users/kata/C#Projects/HW_04/Exercise4/obj/Debug/netcoreapp2.1/Exercise4.dll
+/Users/kata/C#Projects/HW_04/Exercise4/obj/Debug/netcoreapp2.1/Exercise4.pdb

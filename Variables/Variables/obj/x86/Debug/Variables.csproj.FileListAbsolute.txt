@@ -1,0 +1,6 @@
+/Users/kata/Projects/Variables/Variables/obj/x86/Debug/Variables.csprojAssemblyReference.cache
+/Users/kata/Projects/Variables/Variables/obj/x86/Debug/Variables.csproj.CoreCompileInputs.cache
+/Users/kata/Projects/Variables/Variables/bin/Debug/Variables.exe
+/Users/kata/Projects/Variables/Variables/bin/Debug/Variables.pdb
+/Users/kata/Projects/Variables/Variables/obj/x86/Debug/Variables.exe
+/Users/kata/Projects/Variables/Variables/obj/x86/Debug/Variables.pdb
