@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/EX_06.deps.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/EX_06.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/EX_06.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/EX_06.dll
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/EX_06.pdb
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.dll
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/EX_06.pdb

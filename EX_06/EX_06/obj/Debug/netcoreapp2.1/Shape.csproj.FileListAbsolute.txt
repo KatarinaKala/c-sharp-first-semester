@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/Shape.deps.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/Shape.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/Shape.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/Shape.dll
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/bin/Debug/netcoreapp2.1/Shape.pdb
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.dll
+/Users/kata/c-sharp-first-semester/EX_06/EX_06/obj/Debug/netcoreapp2.1/Shape.pdb

@@ -1,0 +1,10 @@
+/Users/kata/c-sharp-first-semester/EX_06/Spider/bin/Debug/netcoreapp2.1/Spider.deps.json
+/Users/kata/c-sharp-first-semester/EX_06/Spider/bin/Debug/netcoreapp2.1/Spider.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_06/Spider/bin/Debug/netcoreapp2.1/Spider.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_06/Spider/bin/Debug/netcoreapp2.1/Spider.dll
+/Users/kata/c-sharp-first-semester/EX_06/Spider/bin/Debug/netcoreapp2.1/Spider.pdb
+/Users/kata/c-sharp-first-semester/EX_06/Spider/obj/Debug/netcoreapp2.1/Spider.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/Spider/obj/Debug/netcoreapp2.1/Spider.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_06/Spider/obj/Debug/netcoreapp2.1/Spider.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_06/Spider/obj/Debug/netcoreapp2.1/Spider.dll
+/Users/kata/c-sharp-first-semester/EX_06/Spider/obj/Debug/netcoreapp2.1/Spider.pdb
