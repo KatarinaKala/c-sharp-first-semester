@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/bin/Debug/netcoreapp2.1/Constructors.deps.json
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/bin/Debug/netcoreapp2.1/Constructors.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/bin/Debug/netcoreapp2.1/Constructors.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/bin/Debug/netcoreapp2.1/Constructors.dll
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/bin/Debug/netcoreapp2.1/Constructors.pdb
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.dll
+/Users/kata/c-sharp-first-semester/EX_07/EX_07/obj/Debug/netcoreapp2.1/Constructors.pdb

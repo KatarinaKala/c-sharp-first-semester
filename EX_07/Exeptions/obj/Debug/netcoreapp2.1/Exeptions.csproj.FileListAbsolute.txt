@@ -1,0 +1,10 @@
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/bin/Debug/netcoreapp2.1/Exeptions.deps.json
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/bin/Debug/netcoreapp2.1/Exeptions.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/bin/Debug/netcoreapp2.1/Exeptions.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/bin/Debug/netcoreapp2.1/Exeptions.dll
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/bin/Debug/netcoreapp2.1/Exeptions.pdb
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/obj/Debug/netcoreapp2.1/Exeptions.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/obj/Debug/netcoreapp2.1/Exeptions.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/obj/Debug/netcoreapp2.1/Exeptions.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/obj/Debug/netcoreapp2.1/Exeptions.dll
+/Users/kata/c-sharp-first-semester/EX_07/Exeptions/obj/Debug/netcoreapp2.1/Exeptions.pdb

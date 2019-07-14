@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B1A3628D-2D62-47FC-93CB-103AA21F5E31}|Default">
+  <MonoDevelop.Ide.ItemProperties.Constructors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tickets/Program.cs">
+    <Files>
+      <File FileName="Tickets/Program.cs" Line="26" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EX_07" expanded="True">
+            <Node name="Constructors" expanded="True" />
+            <Node name="Exeptions" expanded="True" />
+            <Node name="Tickets" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exeptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tickets PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

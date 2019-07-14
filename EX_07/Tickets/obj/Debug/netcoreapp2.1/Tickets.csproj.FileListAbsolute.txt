@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/bin/Debug/netcoreapp2.1/Tickets.deps.json
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/bin/Debug/netcoreapp2.1/Tickets.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/bin/Debug/netcoreapp2.1/Tickets.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/bin/Debug/netcoreapp2.1/Tickets.dll
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/bin/Debug/netcoreapp2.1/Tickets.pdb
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.dll
+/Users/kata/c-sharp-first-semester/EX_07/Tickets/obj/Debug/netcoreapp2.1/Tickets.pdb
