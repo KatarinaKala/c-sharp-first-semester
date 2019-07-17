@@ -1,0 +1,14 @@
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/CarNumbers.deps.json
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/CarNumbers.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/CarNumbers.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/CarNumbers.dll
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/bin/Debug/netcoreapp2.1/CarNumbers.pdb
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.dll
+/Users/kata/c-sharp-first-semester/EX_09/CarNumbers/obj/Debug/netcoreapp2.1/CarNumbers.pdb

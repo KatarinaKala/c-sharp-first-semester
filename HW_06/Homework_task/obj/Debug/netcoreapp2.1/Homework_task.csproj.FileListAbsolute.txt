@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/bin/Debug/netcoreapp2.1/Homework_task.deps.json
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/bin/Debug/netcoreapp2.1/Homework_task.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/bin/Debug/netcoreapp2.1/Homework_task.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/bin/Debug/netcoreapp2.1/Homework_task.dll
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/bin/Debug/netcoreapp2.1/Homework_task.pdb
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.dll
+/Users/kata/c-sharp-first-semester/HW_06/Homework_task/obj/Debug/netcoreapp2.1/Homework_task.pdb

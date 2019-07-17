@@ -1,0 +1,14 @@
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/EX_09.deps.json
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/EX_09.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/EX_09.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/EX_09.dll
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/EX_09.pdb
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.dll
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/obj/Debug/netcoreapp2.1/EX_09.pdb
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kata/c-sharp-first-semester/EX_09/EX_09/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll

@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/bin/Debug/netcoreapp2.1/Practice.deps.json
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/bin/Debug/netcoreapp2.1/Practice.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/bin/Debug/netcoreapp2.1/Practice.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/bin/Debug/netcoreapp2.1/Practice.dll
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/bin/Debug/netcoreapp2.1/Practice.pdb
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.dll
+/Users/kata/c-sharp-first-semester/HW_06/HW_06/obj/Debug/netcoreapp2.1/Practice.pdb

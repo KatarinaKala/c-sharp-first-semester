@@ -1,0 +1,14 @@
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/Bus.deps.json
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/Bus.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/Bus.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/Bus.dll
+/Users/kata/c-sharp-first-semester/EX_09/Bus/bin/Debug/netcoreapp2.1/Bus.pdb
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.dll
+/Users/kata/c-sharp-first-semester/EX_09/Bus/obj/Debug/netcoreapp2.1/Bus.pdb

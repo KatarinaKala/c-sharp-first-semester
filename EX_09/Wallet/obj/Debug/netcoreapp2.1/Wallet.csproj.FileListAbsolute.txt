@@ -1,0 +1,14 @@
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/Wallet.deps.json
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/Wallet.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/Wallet.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/Wallet.dll
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/bin/Debug/netcoreapp2.1/Wallet.pdb
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.dll
+/Users/kata/c-sharp-first-semester/EX_09/Wallet/obj/Debug/netcoreapp2.1/Wallet.pdb
