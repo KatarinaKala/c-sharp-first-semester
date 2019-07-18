@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{06F8A8BE-D92A-4DF9-B2D5-8151285C20C8}|Default">
+  <MonoDevelop.Ide.ItemProperties.HW__09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW_09/Program.cs">
+    <Files>
+      <File FileName="HW_09/Program.cs" Line="9" Column="1" />
+      <File FileName="HW_09/ExercisesTest.cs" Line="26" Column="42" />
+      <File FileName="../EX_09/Wallet/WalletTest.cs" Line="35" Column="40" />
+      <File FileName="../EX_09/CarNumbers/CarNumbersTest.cs" Line="21" Column="49" />
+      <File FileName="../EX_09/Bus/BusTest.cs" Line="1" Column="1" />
+      <File FileName="../EX_09/CarNumbers/Program.cs" Line="13" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_09" expanded="True">
+            <Node name="HW_09" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HW_09" expanded="True">
+            <Node name="HW_09" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../HW_07/HW_07/Program.cs" line="58" offsetX="302" offsetY="855" expression="speed" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.ItemProperties.CarNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Wallet/Program.cs">
     <Files>
-      <File FileName="Wallet/Program.cs" Line="14" Column="1" />
-      <File FileName="Wallet/Money.cs" Line="50" Column="25" />
-      <File FileName="Wallet/WalletTest.cs" Line="110" Column="11" />
+      <File FileName="Wallet/Program.cs" Line="86" Column="10" />
+      <File FileName="Wallet/Money.cs" Line="43" Column="10" />
+      <File FileName="Wallet/WalletTest.cs" Line="198" Column="1" />
       <File FileName="../../Downloads/EX_09/Wallet/Wallet.cs" Line="53" Column="35" />
       <File FileName="../../Downloads/EX_09/Wallet/Money.cs" Line="23" Column="28" />
-      <File FileName="../../Downloads/EX_09/Wallet/Tests.cs" Line="124" Column="37" />
+      <File FileName="../../Downloads/EX_09/Wallet/Tests.cs" Line="167" Column="48" />
       <File FileName="CarNumbers/Program.cs" Line="30" Column="10" />
       <File FileName="CarNumbers/CarNumbersTest.cs" Line="26" Column="10" />
     </Files>
@@ -22,6 +22,13 @@
               </Node>
               <Node name="Program.cs" selected="True" />
             </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="EX_09" expanded="True">
+            <Node name="Wallet" selected="True" />
           </Node>
         </State>
       </Pad>
