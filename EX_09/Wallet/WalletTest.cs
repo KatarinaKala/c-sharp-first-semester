@@ -100,39 +100,66 @@ namespace Wallet
             Money findCurrency = Wallet1.FindMoney("EUR");
             Assert.IsTrue(expected.AreEqual(findCurrency));
         }
-        /*
+
         [Test]
         public void AreTwoWalletsEqual()
         {
             // {[12 EUR], [14EUR]}  ==  { [14EUR], [12EUR]}  
-
+            Wallet1.AddMoneyToWallet(_14EUR);
+            Wallet2.AddMoneyToWallet(_12EUR);
+            Assert.That(Wallet1.EqualWallets(Wallet2));
         }
 
         [Test]
         public void WalletSimpleAdd() //Add money to Wallet
         {
             // {[12 EUR][7 USD]} + [14 EUR] == {[26 EUR][7 USD]}
+            Wallet1.AddMoneyToWallet(new Money(7, "USD"));
+            Wallet1.AddMoneyToWallet(new Money(14, "EUR"));
 
+            Wallet expected = new Wallet(new Money(26, "EUR"));
+            expected.AddMoneyToWallet(new Money(7, "USD"));
+
+            Assert.IsTrue(Wallet1.EqualWallets(expected));
         }
-
 
         [Test]
         public void WalletMultiply()
         {
             // {[12 EUR][7 USD]} *2 == {[24 EUR][14 USD]}
+            Wallet1.AddMoneyToWallet(new Money(7, "USD"));
+            Wallet1.MultiplyWallet(2);
 
+            Wallet expected = new Wallet(new Money(24, "EUR"));
+            expected.AddMoneyToWallet(new Money(14, "USD"));
+
+            Assert.IsTrue(Wallet1.EqualWallets(expected));
         }
 
         [Test]
         public void WalletNegate()
         {
             // {[12 EUR][7 USD]} negate == {[-12 EUR][-7 USD]}
+            Wallet1.AddMoneyToWallet(new Money(7, "USD"));
+            Wallet1.NegateWallet();
+
+            Wallet expected = new Wallet(new Money(-12, "EUR"));
+            expected.AddMoneyToWallet(new Money(-7, "USD"));
+
+            Assert.IsTrue(Wallet1.EqualWallets(expected));
         }
 
         [Test]
         public void WalletSumAdd()  //add 2 Wallets
         {
             // {[12 EUR][7 USD]} + {[14 EUR][21 USD]} == {[26 EUR][28 USD]}
+            Wallet1.AddMoneyToWallet(new Money(7, "USD"));
+            Wallet1.AddWallets(Wallet2);
+
+            Wallet expected = new Wallet(new Money(26, "EUR"));
+            expected.AddMoneyToWallet(new Money(7, "USD"));
+
+            Assert.IsTrue(Wallet1.EqualWallets(expected));
 
         }
 
@@ -140,13 +167,31 @@ namespace Wallet
         public void SubtractMoneyFromWallet()
         {
             // [14 EUR][26USD]  - [10EUR] == [4 EUR][26USD]
+            Wallet2.AddMoneyToWallet(new Money(26, "USD"));
+            Wallet2.SubtractWallet(new Money(10, "EUR"));
+
+            Wallet expected = new Wallet(new Money(4, "EUR"));
+            expected.AddMoneyToWallet(new Money(26, "USD"));
+
+            Assert.IsTrue(Wallet2.EqualWallets(expected));
         }
 
         [Test]
         public void SubtractWalletFromWallet()
         {
             // [14 EUR][26USD]  - [10EUR][6USD] == [4 EUR][20USD]
-        }*/
+            Wallet2.AddMoneyToWallet(new Money(26, "USD"));
+
+            Wallet1.SubtractWallet(new Money(4, "EUR"));
+            Wallet1.AddMoneyToWallet(new Money(6, "USD"));
+
+            Wallet expected = new Wallet(new Money(4, "EUR"));
+            expected.AddMoneyToWallet(new Money(20, "USD"));
+
+            Wallet2.SubtractWallets(Wallet1);
+
+            Assert.IsTrue(Wallet2.EqualWallets(expected));
+        }
     }
 
 }

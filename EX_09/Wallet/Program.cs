@@ -37,5 +37,66 @@ namespace Wallet
                 existingmoney.AddMoney(moneyToAdd); //if we already have that currency, we increase the value
             }
         }
+
+        public bool EqualWallets(Wallet walletToCompare)
+        {
+            if (moneyInWallet.Count != walletToCompare.moneyInWallet.Count) //checking if we have the same amount of money objects
+            {
+                return false;
+            }
+            foreach (Money money in moneyInWallet)
+            {
+                if (walletToCompare.FindMoney(money.GetCurrency()) == null) //checking if we have the same currencies
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public Wallet AddWallets(Wallet walletToAdd)
+        {
+            foreach (Money money in walletToAdd.moneyInWallet)
+            {
+                AddMoneyToWallet(money);
+            }
+            return this;
+        }
+
+        public Wallet MultiplyWallet(int multiplier)
+        {
+            foreach (Money money in moneyInWallet)
+            {
+                money.Multiply(multiplier);
+            }
+            return this;
+        }
+
+        public Wallet NegateWallet()
+        {
+            foreach (Money money in moneyInWallet)
+            {
+                money.Negate();
+            }
+            return this;
+        }
+
+        public Wallet SubtractWallet(Money money)
+        {
+            foreach (Money m in moneyInWallet)
+            {
+                m.SubtractMoney(money);
+            }
+            return this;
+        }
+
+        public Wallet SubtractWallets(Wallet walletToSubtract)
+        {
+            foreach (Money money in walletToSubtract.moneyInWallet)
+            {
+                walletToSubtract.SubtractWallet(money);
+            }
+            return this;
+        }
     }
 }
