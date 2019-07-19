@@ -7,11 +7,13 @@ namespace HW_09
     public class ExercisesTest
     {
         Exercises exercises;
+        TimeCalculator timeCalculator;
 
         [SetUp]
         public void TestSetUp()
         {
             exercises = new Exercises();
+            timeCalculator = new TimeCalculator();
         }
         /*
         [Test]
@@ -91,17 +93,49 @@ namespace HW_09
         {
             Assert.That(exercises.CalculateBMI(150, 185.7), Is.EquivalentTo("Obese"));
         }
-        */
+
         [Test]
         public void TestSentence()
         {
-            Assert.That(exercises.Sentence("Have a Nice Day"), Is.EquivalentTo("Have*a*Nice*Day"));
+            Assert.That(exercises.Sentence("Have a Nice Day"), Is.EqualTo("Have*a*Nice*Day"));
         }
 
         [Test]
         public void TestSentenceSpaces() //test if the output is correct with many spaces
         {
-            Assert.That(exercises.Sentence("Nice   Day"), Is.EquivalentTo("Nice*Day"));
+            Assert.That(exercises.Sentence("Nice   Day"), Is.EqualTo("Nice*Day"));
+        }
+        */
+        [Test]
+        public void TestDateAndTimeAdd()
+        {
+            DateTime date = new DateTime(2000, 1, 1, 2, 0, 0);
+
+            Assert.That(timeCalculator.AddHours(2), Is.EqualTo(date));
+        }
+
+        [Test]
+        public void TestDateAndTimeSubtract()
+        {
+            DateTime date = new DateTime(1999, 12, 31, 23, 0, 0);
+
+            Assert.That(timeCalculator.AddHours(-1), Is.EqualTo(date)); 
+        }
+
+        [Test]
+        public void TestDateAndTimeSubtractHalfAnHour()
+        {
+            DateTime date = new DateTime(1999, 12, 31, 23, 30, 0);
+
+            Assert.That(timeCalculator.AddHours(-0.5), Is.EqualTo(date));
+        }
+
+        [Test]
+        public void TestDateAndTimeAddHalfAnHour()
+        {
+            DateTime date = new DateTime(2000, 1, 1, 0, 30, 0);
+
+            Assert.That(timeCalculator.AddHours(0.5), Is.EqualTo(date));
         }
     }
 }
