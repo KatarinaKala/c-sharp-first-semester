@@ -16,27 +16,26 @@ namespace FastFood
             fastFood.MakeOrder();*/
 
             //Adding console interface
+            fastFood.PrintCommands();
 
             bool continueAsking = true;
             bool isOrdering = false;
-
-            fastFood.PrintCommands();
             string input = Console.ReadLine();
 
-            if (continueAsking)
+            if (continueAsking == true)
             {
-                if (isOrdering)
+                if (isOrdering == true)
                 {
                     switch (input)
                     {
                         case "E":
-                            isOrdering = false;
                             fastFood.MakeOrder();
                             fastFood.PrintCommands();
+                            isOrdering = false;
                             break;
                         default:
                             fastFood.AddOrder(input);
-                            Console.WriteLine("Please enter the item you wish to order or E to exit:");
+                            Console.WriteLine("Please enter the item you want to order or E to exit");
                             break;
                     }
                 }
@@ -44,25 +43,28 @@ namespace FastFood
                 {
                     switch (input)
                     {
-                        case "E":
-                            continueAsking = false;
-                            break;
-                        case "O":
-                            isOrdering = true;
-                            Console.WriteLine("Please enter the item you wish to order or E to exit:");
-                            fastFood.AddOrder(input);
-                            break;
                         case "L":
                             fastFood.PrintItemsAndPrices();
                             fastFood.PrintCommands();
                             break;
+                        case "O":
+                            Console.WriteLine("Please enter the item you want to order: ");
+                            isOrdering = true;
+                            break;
+                        case "E":
+                            continueAsking = false;
+                            break;
                         default:
-                            Console.WriteLine("Invalid command");
+                            Console.WriteLine("Invalid command!");
                             fastFood.PrintCommands();
                             break;
                     }
                 }
                 input = Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Thank you, come again!");
             }
 
             Console.ReadLine();
