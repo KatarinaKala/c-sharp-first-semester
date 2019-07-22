@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EF5155A6-D5E6-4626-B17E-0FDF223473D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.EX__10 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/FastFood/Dice/Dice.cs">
+    <Files>
+      <File FileName="EX_10/Program.cs" Line="8" Column="10" />
+      <File FileName="../../Downloads/FastFood/Dice/Dice.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/FastFood/Dice/5Dices.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/FastFood/Dice/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EX_10" expanded="True">
+            <Node name="EX_10" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
