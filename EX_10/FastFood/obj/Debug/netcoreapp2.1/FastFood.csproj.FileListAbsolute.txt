@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/bin/Debug/netcoreapp2.1/FastFood.deps.json
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/bin/Debug/netcoreapp2.1/FastFood.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/bin/Debug/netcoreapp2.1/FastFood.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/bin/Debug/netcoreapp2.1/FastFood.dll
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/bin/Debug/netcoreapp2.1/FastFood.pdb
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.dll
+/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/Debug/netcoreapp2.1/FastFood.pdb

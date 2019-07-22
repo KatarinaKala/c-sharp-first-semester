@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kata/c-sharp-first-semester/EX_10/EX_10/Dice.csproj",
-      "projectName": "Dice",
-      "projectPath": "/Users/kata/c-sharp-first-semester/EX_10/EX_10/Dice.csproj",
+      "projectUniqueName": "/Users/kata/c-sharp-first-semester/EX_10/FastFood/FastFood.csproj",
+      "projectName": "FastFood",
+      "projectPath": "/Users/kata/c-sharp-first-semester/EX_10/FastFood/FastFood.csproj",
       "packagesPath": "/Users/kata/.nuget/packages/",
-      "outputPath": "/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/",
+      "outputPath": "/Users/kata/c-sharp-first-semester/EX_10/FastFood/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

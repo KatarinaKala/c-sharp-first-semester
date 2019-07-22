@@ -1,0 +1,11 @@
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/bin/Debug/netcoreapp2.1/Dice.deps.json
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/bin/Debug/netcoreapp2.1/Dice.runtimeconfig.json
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/bin/Debug/netcoreapp2.1/Dice.runtimeconfig.dev.json
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/bin/Debug/netcoreapp2.1/Dice.dll
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/bin/Debug/netcoreapp2.1/Dice.pdb
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.csprojAssemblyReference.cache
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.csproj.CoreCompileInputs.cache
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.AssemblyInfoInputs.cache
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.AssemblyInfo.cs
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.dll
+/Users/kata/c-sharp-first-semester/EX_10/EX_10/obj/Debug/netcoreapp2.1/Dice.pdb

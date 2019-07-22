@@ -1,17 +1,17 @@
-﻿<Properties StartupConfiguration="{EF5155A6-D5E6-4626-B17E-0FDF223473D6}|Default">
-  <MonoDevelop.Ide.ItemProperties.EX__10 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/FastFood/Dice/Dice.cs">
+﻿<Properties StartupConfiguration="{FA2D02E7-48A3-4477-A71F-32B666D8F1E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.FastFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastFood/Program.cs">
     <Files>
-      <File FileName="EX_10/Program.cs" Line="8" Column="10" />
-      <File FileName="../../Downloads/FastFood/Dice/Dice.cs" Line="1" Column="1" />
-      <File FileName="../../Downloads/FastFood/Dice/5Dices.cs" Line="1" Column="1" />
-      <File FileName="../../Downloads/FastFood/Dice/Program.cs" Line="1" Column="1" />
+      <File FileName="FastFood/Program.cs" Line="9" Column="1" />
+      <File FileName="../../Downloads/FastFood/FastFood/FastFood.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/FastFood/FastFood/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EX_10" expanded="True">
-            <Node name="EX_10" expanded="True">
+            <Node name="Dice" expanded="True" />
+            <Node name="FastFood" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,6 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Dice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
