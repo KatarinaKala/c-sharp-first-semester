@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kata/c-sharp-first-semester/HW_10/HW_10/HW_10.csproj": {}
+  },
+  "projects": {
+    "/Users/kata/c-sharp-first-semester/HW_10/HW_10/HW_10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kata/c-sharp-first-semester/HW_10/HW_10/HW_10.csproj",
+        "projectName": "HW_10",
+        "projectPath": "/Users/kata/c-sharp-first-semester/HW_10/HW_10/HW_10.csproj",
+        "packagesPath": "/Users/kata/.nuget/packages/",
+        "outputPath": "/Users/kata/c-sharp-first-semester/HW_10/HW_10/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kata/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
